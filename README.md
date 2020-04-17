@@ -49,6 +49,9 @@
 * ( members.csv is default if you changed name use it )
 * Send Bulk sms To Collected Data 
 
+add users to your group ( in devlopment )
+$ python3 add2group.py members.csv
+
 `$ python3 smsbot.py members.csv`
 
 * Update Tool
